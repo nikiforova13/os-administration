@@ -1,0 +1,27 @@
+# Секреты
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+credentials.json
+secrets/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+*.swp
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Система
+Thumbs.db
+Desktop.ini
+.DS_Store
